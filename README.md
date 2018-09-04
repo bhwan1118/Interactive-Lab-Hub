@@ -2,5 +2,5 @@
 
 Completed Labs for Benjamin Hwang
 
-1. [Ben H Lab 1](//github.com/johnqstudent/idd-fa18-lab1)
+1. [Ben H Lab 1](https://github.com/bhwan1118/IDD-Fa18-Lab1/blob/master/README.md)
 
