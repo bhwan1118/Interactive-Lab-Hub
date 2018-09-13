@@ -7,3 +7,4 @@ Completed Labs for Benjamin Hwang
 
 Completed Pre-Labs
 1. [Pre-Lab 2](https://github.com/bhwan1118/IDD-Fa18-Lab2/blob/master/PreLab2.md)
+2. [Pre-Lab 3](https://github.com/bhwan1118/IDD-Fa18-Lab3/blob/master/PreLab3.md)
